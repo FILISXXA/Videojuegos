@@ -3,7 +3,7 @@
 ## Unidad 3
 *Contenido de la Unidad 3*
 
-## [Instrumento](Juego.docx)
+## [Instrumento](Juego.pdf)
 *Descripción del instrumento - Haz clic en "Instrumento" para ver el documento*
 
 ## Video Demostrativo WebGL
