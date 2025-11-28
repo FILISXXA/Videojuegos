@@ -1,7 +1,7 @@
 # Videojuegos
 
 ## Unidad 3
-*Contenido de la Unidad 3*
+Se presentan videos demostrativos de el videojuego publicado y tambien documento del instrumento
 
 ## [Instrumento](Juego.pdf)
 *Descripción del instrumento - Haz clic en "Instrumento" para ver el documento*
